@@ -1,0 +1,23 @@
+Схема директории ~:
+
+/home/Victoria
+├── data
+│   ├── processed
+│   └── raw
+├── directory_structure.txt
+├── logs
+├── results
+│   ├── plots
+│   └── tables
+├── scripts
+│   └── analyze.sh
+├── task1
+│   ├── data
+│   ├── logs
+│   ├── results
+│   ├── scripts
+│   └── temp
+├── task1_copy_empty
+└── temp
+
+17 directories, 2 files

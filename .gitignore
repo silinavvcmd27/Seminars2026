@@ -1,0 +1,26 @@
+# Системные файлы
+.bash*
+.profile
+.lesshst
+.sudo_as_admin_successful
+.cache/
+.config/
+
+# SSH ключи (НИКОГДА не добавлять!)
+.ssh/
+
+# Временные файлы
+*.tmp
+*.swp
+*~
+
+# Логи
+*.log
+
+# Служебные папки
+.DS_Store
+Thumbs.db
+
+# Компилируемые файлы (если будут)
+*.pyc
+__pycache__/

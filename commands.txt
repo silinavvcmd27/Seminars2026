@@ -1,0 +1,22 @@
+=== Команды выполнения задания 5 ===
+
+1. Копирование папки task1:
+cp -r /home/Victoria/task1 /home/Victoria/task1_copy
+
+2. Удаление внутренних директорий task1_copy:
+cd /home/Victoria/task1_copy
+rm -rf data logs results scripts temp
+cd ..
+
+3. Переименование папки:
+mv task1_copy task1_copy_empty
+
+4. Получение схемы директории ~:
+echo "Схема директории ~:" > ~/directory_structure.txt
+echo "" >> ~/directory_structure.txt
+find ~ -maxdepth 2 -type d | sort | sed 's|[^/]*/|- |g;s|- |   |g' >> ~/directory_structure.txt
+
+5. Сохранение команд в этот файл:
+cat > ~/commands.txt << 'END'
+[эти команды]
+END
