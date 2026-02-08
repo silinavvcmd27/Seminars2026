@@ -1,0 +1,16 @@
+=== Анализ файла genes.fasta ===
+
+1. Общее количество строк:
+6 ../data/genes.fasta
+
+2. Количество последовательностей (заголовков):
+3
+
+3. Первые 3 строки файла:
+>human_chr1
+ATGGCCTAGTGGCCATGTGCCATGCCATGCCATG
+>mouse_chr1
+
+4. Последние 2 строки файла:
+>ecoli_genome
+ATGTCATGCATGCATCAGTCACATGCATGCAT

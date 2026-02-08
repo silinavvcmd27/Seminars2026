@@ -1,0 +1,31 @@
+2) Количество свободного места в системе:
+ 7.7G /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+ 7.7G /mnt/wsl
+ 692G /usr/lib/wsl/drivers
+ 956G /
+ 7.7G /mnt/wslg
+ 7.7G /usr/lib/wsl/lib
+ 7.7G /init
+ 7.7G /dev
+ 7.7G /run
+ 7.7G /run/lock
+ 7.7G /run/shm
+ 692G /mnt/c
+ 172G /mnt/d
+ 7.7G /mnt/wslg/versions.txt
+ 7.7G /mnt/wslg/doc
+ 7.7G /tmp
+ 1.0M /run/credentials/systemd-journald.service
+ 1.0M /run/credentials/console-getty.service
+ 1.0M /run/credentials/getty@tty1.service
+ 1.6G /run/user/1000
+
+3) Количество занимаемого места вашими файлами:
+112K	/home/Victoria
+
+=== Задание 4 ===
+Команда поиска файла fasta:
+find ~ -name "genes.fasta" -type f
+
+Результат поиска:
+/home/Victoria/task1/data/genes.fasta
