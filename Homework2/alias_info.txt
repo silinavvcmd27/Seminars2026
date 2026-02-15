@@ -1,0 +1,1 @@
+Added alias lla='ls -lha --time-style=long-iso' to .bashrc
