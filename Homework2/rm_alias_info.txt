@@ -1,0 +1,2 @@
+Alias 'rm' was added to ~/.bashrc: alias rm='rm -i'
+For all users, this alias should be added to /etc/bash.bashrc
