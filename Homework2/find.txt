@@ -1,0 +1,2 @@
+First run: file created
+Second run: file removed
