@@ -1,0 +1,4 @@
+ 21:44:09 up 2 days,  1:58,  1 user,  load average: 0.01, 0.08, 0.07
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU  WHAT
+Victoria pts/1    -                07Feb26  8days  0.00s   ?    -bash
+uid=1000(Victoria) gid=1000(Victoria) groups=1000(Victoria),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),100(users)
